@@ -64,6 +64,7 @@ Read this in other languages: [English](README.md), [简体中文](README.zh-cn.
   * [Books](#books)
   * [Podcasts](#podcasts)
   * [Videos](#videos)
+  * [Exercises](https://www.codeforhunger.com/2021/10/Java%20Programming%20Exercises%20with%20their%20Solutions.html)
 
 ## Style
 
